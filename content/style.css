@@ -1,0 +1,65 @@
+nav.nav-center
+{
+	height: 130px;
+	background-color:black;
+}
+
+nav.nav-center ul {
+	padding-top:40px;
+	text-align: center;
+}
+nav.nav-center ul li {
+		display: inline;
+		float: none;
+	}
+
+nav.nav-center ul li a {
+			display: inline-block;
+			padding-right:60px;
+			padding-left:40px;
+		}
+		
+nav.nav-center .brand-logo {
+	display: inline-block;
+	height: 100%;
+	vertical-align:initial;
+	padding-top:40px;
+	}
+nav.nav-wrapper{
+	background-color:white;
+	height:2px;
+}
+
+
+nav .nav-wrapper a.active{
+	color:red;
+}
+
+nav .nav-wrapper a:hover{
+color:red;
+}
+#upper-space {
+	background-color: #d32f2f;
+	
+}
+
+.btn-large{
+	align-content:center;
+	height:55px;
+	width:210px;
+
+}
+#middle_space{
+	background-color:white;
+	
+}
+nav.nav-fixed {
+	background-color: #d32f2f;
+	height: 4px;
+}
+nav.nav-wrap {
+	background-color: #424242;
+}
+footer.page-footer {
+	margin: 0;
+}
